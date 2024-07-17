@@ -99,7 +99,7 @@ function Home() {
       <h1 className="text-2xl font-bold mb-4">Suma Total por Macro bloque y Calle</h1>
       <button
         onClick={exportToExcel}
-        className="mb-4 p-2 bg-blue-500 text-white rounded"
+        className="mb-4 p-2 bg-orange-500 text-white rounded"
       >
         Exportar a Excel
       </button>
